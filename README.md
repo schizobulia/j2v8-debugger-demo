@@ -5,9 +5,6 @@
 ### This project needs to be paid, please contact me if you need to use it.
 
 ### Demo
-<video controls>
-  <source src="./j2v8-debugger.mp4" type="video/mp4">
-  <code>video</code>
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=787439164&bvid=BV1s14y1i7Ma&cid=1240718965&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### email: 2833324528@qq.com
